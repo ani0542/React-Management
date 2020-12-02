@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "ramesh singh ",
+      "username": "ramu0542",
+      "email": "ram@gmail.com",
+      "phone": "111-222-333-444",
+      "website": "ramiro.info",
+      "id": 2
+    },
+    {
+      "name": "mahina",
+      "username": "tiwari",
+      "email": "mahina@gmail.com",
+      "phone": "9686733974",
+      "website": "ani0542webhost",
+      "id": 3
+    },
+    {
+      "name": "kamat",
+      "username": "pandey",
+      "email": "kam@gmail.com",
+      "phone": "123456789",
+      "website": "http://reactblog.com",
+      "id": 4
+    }
+  ]
+}
